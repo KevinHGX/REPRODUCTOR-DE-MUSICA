@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/firstF"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Library"
+        android:fontFamily="@font/roboto"
+        />
+    <item
+        android:id="@+id/secondF"
+        android:icon="@drawable/baseline_playlist_play_24"
+        android:title="Playlist"
+        android:fontFamily="@font/roboto"
+        />
+    <item
+        android:id="@+id/thirdF"
+        android:icon="@drawable/baseline_bar_chart_24"
+        android:title="Ecualizador"
+        android:fontFamily="@font/roboto"
+        />
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/baseline_search_24"
+        android:title="Search"
+        android:fontFamily="@font/roboto"
+        />
+</menu>

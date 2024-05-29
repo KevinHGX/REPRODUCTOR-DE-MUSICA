@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/itemMusic"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@color/black"
+    android:padding="2dp">
+
+    <ImageView
+        android:id="@+id/imageViewMusic"
+        android:layout_width="64dp"
+        android:layout_height="64dp"
+        android:src="@drawable/baseline_audiotrack_24"
+        android:scaleType="centerCrop"
+        android:gravity="center"/>
+
+    <LinearLayout
+        android:id="@+id/infoMusic"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textViewTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:fontFamily="@font/roboto_bold"
+            android:textColor="@color/secondary"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textViewArtist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto"
+            android:textColor="@color/secondary"
+            android:textSize="16sp" />
+
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/options"
+        android:layout_width="43dp"
+        android:layout_height="40dp"
+        android:layout_gravity="center"
+        android:layout_toRightOf="@+id/infoMusic"
+        android:src="@drawable/baseline_more_vert_24"
+        app:tint="@color/secondary" />
+
+</LinearLayout>
