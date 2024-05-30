@@ -14,19 +14,19 @@ El reproductor de música incluye las siguientes características:
 A continuación, se muestran algunas capturas de pantalla de la aplicación en funcionamiento:
 
 
-<div style="display: flex; flex-wrap: wrap; justify-content: space-around;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
 
-  <div style="flex: 1 0 30%; margin: 10px;">
+  <div style="flex: 1 0 30%; margin: 10px; ">
     <img src="capturas/Screenshot_20230419-003626.png" alt="Lista" style="width:100%;">
     <p style="text-align: center;">Lista de Reproduccion</p>
   </div>
 
-  <div style="flex: 1 0 30%; margin: 10px;">
+  <div style="flex: 1 0 30%; margin: 10px; ">
     <img src="capturas/Screenshot_20230419-003659.png" alt="Artistas" style="width:100%;">
     <p style="text-align: center;">Lista por Artitas</p>
   </div>
 
-  <div style="flex: 1 0 30%; margin: 10px;">
+  <div style="flex: 1 0 30%; margin: 10px; ">
     <img src="capturas/Screenshot_20230419-003730.png" alt="Reproduccion" style="width:100%;">
     <p style="text-align: center;">Reproducción de Canción</p>
   </div>
