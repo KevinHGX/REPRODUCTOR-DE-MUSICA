@@ -4,7 +4,7 @@ Este proyecto es un reproductor de música creado con Android Studio. La aplicac
 # <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 15px> Descripción del Proyecto
 El reproductor de música incluye las siguientes características:
 
-# <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 15px> Interfaz de usuario amigable: Diseño limpio y navegación sencilla.
+# <img src="https://raw.githubusercontent.com/SamHerbert/SVG-Loaders/5deed925369e57e9c58ba576ce303466984db501/svg-loaders/bars.svg" width = 15px> Interfaz de usuario 
 -Gestión de listas de reproducción: Crea y administra tus listas de reproducción personalizadas.
 -Controles de reproducción: Reproducir, pausar, avanzar y retroceder canciones.
 -Visualización de metadatos: Muestra información sobre la canción que se está reproduciendo, como el título, el artista y la portada del álbum.
