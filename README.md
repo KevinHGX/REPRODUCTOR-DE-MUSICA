@@ -22,30 +22,30 @@ Este proyecto es un reproductor de música creado con Android Studio. La aplicac
 
 <table>
   <tr>
-     <td style="text-align: center;">
-      <img src="capturas/Screenshot_20230419-003608.png" alt="Búsqueda" style="width:100px; display: flex; justify-content: center;">
+     <td style="text-align: center; display: flex; justify-content: center;">
+      <img src="capturas/Screenshot_20230419-003608.png" alt="Búsqueda" style="width:100px;">
       <p>Pantalla de Inicio (Carga) </p>
     </td>
-    <td style="text-align: center;">
-      <img src="capturas/Screenshot_20230419-003659.png" alt="Artistas" style="width:100px; display: flex; justify-content: center;">
+    <td style="text-align: center; display: flex; justify-content: center;">
+      <img src="capturas/Screenshot_20230419-003659.png" alt="Artistas" style="width:100px;">
       <p>Lista por Artistas</p>
     </td>
-    <td style="text-align: center;">
-      <img src="capturas/Screenshot_20230419-003730.png" alt="Reproduccion" style="width:100px; display: flex; justify-content: center;">
+    <td style="text-align: center; display: flex; justify-content: center;">
+      <img src="capturas/Screenshot_20230419-003730.png" alt="Reproduccion" style="width:100px;">
       <p>Reproducción de Canción</p>
     </td>
   </tr>
   <tr>
-    <td style="text-align: center;">
-      <img src="capturas/Screenshot_20230419-003809.png" alt="Configuración" style="width:100px; display: flex; justify-content: center;">
+    <td style="text-align: center; display: flex; justify-content: center;">
+      <img src="capturas/Screenshot_20230419-003809.png" alt="Configuración" style="width:100px;">
       <p>Busqueda</p>
     </td>
-    <td style="text-align: center;">
-      <img src="capturas/Screenshot_20230419-003739.png" alt="Biblioteca" style="width:100px; display: flex; justify-content: center;">
+    <td style="text-align: center; display: flex; justify-content: center;">
+      <img src="capturas/Screenshot_20230419-003739.png" alt="Biblioteca" style="width:100px;">
       <p>Imagen por Default</p>
     </td>
-    <td style="text-align: center;">
-        <img src="capturas/Screenshot_20230419-003626.png" alt="Lista" style="width:100px; display: flex; justify-content: center;">
+    <td style="text-align: center; display: flex; justify-content: center;">
+        <img src="capturas/Screenshot_20230419-003626.png" alt="Lista" style="width:100px;">
         <p>Lista de Reproducción</p>
       </td>
     </tr>
