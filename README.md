@@ -14,21 +14,53 @@ El reproductor de música incluye las siguientes características:
 A continuación, se muestran algunas capturas de pantalla de la aplicación en funcionamiento:
 
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); grid-template-areas: flag_1 flag_2 flag_3; gap: 10px;">
+# Reproductor de Música
 
-  <div style="width: 100px; grid-area: flag_1;">
-    <img src="capturas/Screenshot_20230419-003626.png" alt="Lista" style="width:100%;">
-    <p style="text-align: center;">Lista de Reproduccion</p>
-  </div>
+Este proyecto es un reproductor de música creado con Android Studio. La aplicación permite a los usuarios reproducir sus canciones favoritas con una interfaz intuitiva y fácil de usar. A continuación, se muestran capturas de la aplicación en ejecución.
 
-  <div style="width: 100px; grid-area: flag_2;">
-    <img src="capturas/Screenshot_20230419-003659.png" alt="Artistas" style="width:100%;">
-    <p style="text-align: center;">Lista por Artitas</p>
-  </div>
+## Capturas de Pantalla
 
-  <div style="width: 100px; grid-area: flag_3;">
-    <img src="capturas/Screenshot_20230419-003730.png" alt="Reproduccion" style="width:100%;">
-    <p style="text-align: center;">Reproducción de Canción</p>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <td style="text-align: center;">
+      <img src="capturas/Screenshot_20230419-003626.png" alt="Lista" style="width:100px;">
+      <p>Lista de Reproducción</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="capturas/Screenshot_20230419-003659.png" alt="Artistas" style="width:100px;">
+      <p>Lista por Artistas</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="capturas/Screenshot_20230419-003730.png" alt="Reproduccion" style="width:100px;">
+      <p>Reproducción de Canción</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="capturas/Screenshot_20230419-003626.png" alt="Configuración" style="width:100px;">
+      <p>Pantalla de Configuración</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="capturas/Screenshot_20230419-003659.png" alt="Biblioteca" style="width:100px;">
+      <p>Pantalla de Biblioteca</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="capturas/Screenshot_20230419-003730.png" alt="Búsqueda" style="width:100px;">
+      <p>Pantalla de Búsqueda</p>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: center;">
+      <img src="capturas/Screenshot_20230419-003626.png" alt="Favoritos" style="width:100px;">
+      <p>Pantalla de Favoritos</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="capturas/Screenshot_20230419-003659.png" alt="Historial" style="width:100px;">
+      <p>Pantalla de Historial</p>
+    </td>
+    <td style="text-align: center;">
+      <img src="capturas/Screenshot_20230419-003730.png" alt="Descargas" style="width:100px;">
+      <p>Pantalla de Descargas</p>
+    </td>
+  </tr>
+</table>
